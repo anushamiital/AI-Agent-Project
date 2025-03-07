@@ -1,0 +1,7 @@
+requests
+sounddevice
+numpy
+speechrecognition
+pyttsx3
+python-dotenv
+
